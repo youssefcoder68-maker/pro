@@ -1,0 +1,6 @@
+{
+  "name": "IgniteSafe: Smart-Hybrid Nuclear PAR Architecture",
+  "description": "Interactive 3D nuclear passive autocatalytic recombiner (PAR) simulation with RF induction pre-heating, TinyML edge inference, thermodynamic equations, procedural acoustics, and Arduino Uno 9600-baud Web Serial telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
